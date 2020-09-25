@@ -1,4 +1,8 @@
-#### Name: Vallenain
+#### Name: Suraj 
+ - Place: Mathura, India
+ - Bio: Competitive Programmer.
+ - GitHub: [Suraj Ajay Dwivedi](https://github.com/Surajajaydwivedi)
+ #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
